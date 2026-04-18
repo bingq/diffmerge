@@ -1,0 +1,42 @@
+Copyright © 2025–2026 Bing Qian. All rights reserved.
+
+DiffMerge is proprietary software distributed through the Apple Mac App Store.
+
+This repository contains user-facing documentation only. The DiffMerge
+application source code is not included in or licensed by this repository.
+
+DOCUMENTATION LICENSE
+
+The documentation in this repository (README.md, PRIVACY.md, SUPPORT.md,
+and similar files, hereafter the "Documentation") is made available under
+the following terms:
+
+You MAY:
+  - Read, share, and link to the Documentation.
+  - Quote portions of the Documentation with attribution to DiffMerge
+    and a link back to this repository.
+  - Submit issues and pull requests proposing corrections or improvements
+    to the Documentation.
+
+You MAY NOT:
+  - Redistribute the Documentation in whole or in part without
+    attribution.
+  - Use the names "DiffMerge", "MacMerge", or any confusingly similar
+    name to identify your own product or service.
+  - Use any DiffMerge branding, icons, or screenshots to imply
+    endorsement of, or association with, another product.
+
+APPLICATION LICENSE
+
+The DiffMerge application itself is licensed to end users under the
+Apple Media Services Terms and Conditions at the point of purchase or
+download from the Mac App Store.
+
+NO WARRANTY
+
+THE DOCUMENTATION AND APPLICATION ARE PROVIDED "AS IS", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE DOCUMENTATION
+OR APPLICATION.
